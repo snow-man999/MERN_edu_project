@@ -116,20 +116,6 @@ const Home = () => {
                 >
                   Get started
                 </Button>
-                <Button
-                  onClick={() =>
-                    window.open(
-                      'https://github.com/asif-simform/MERN-Stack',
-                      '_blank'
-                    )
-                  }
-                  variant="default"
-                  radius="xl"
-                  size="md"
-                  className={classes.control}
-                >
-                  code
-                </Button>
               </Group>
             </div>
             <Group className={classes.image} align="center">
