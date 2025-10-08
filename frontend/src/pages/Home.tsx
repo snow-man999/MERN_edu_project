@@ -116,7 +116,6 @@ const Home = () => {
                 >
                   Get started
                 </Button>
-                
               </Group>
             </div>
             <Group className={classes.image} align="center">
